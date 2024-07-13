@@ -1,0 +1,10 @@
+.banner-full{
+    background:rgba(0, 0, 0, .6) url(../../../src/assets/home/featured.jpg);
+    
+    background-blend-mode: darken;
+    
+    
+    color: white;
+    
+    
+}
